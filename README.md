@@ -102,17 +102,21 @@ Save as `requirements.txt` in the project folder.
 ## 📸 Screenshots
 
 **Dashboard Overview**
+
 <img width="7684" height="4322" alt="dashboard" src="https://github.com/user-attachments/assets/0572a433-8bd5-4cf3-8740-3e24ffbf1545" />
 
 **Game Recommender**
+
 <img width="7684" height="4322" alt="recommendations" src="https://github.com/user-attachments/assets/bd9247dd-c253-4f81-8137-08c097419a79" />
 
 
 **Sentiment Analysis**
+
 <img width="7684" height="4322" alt="sentiment" src="https://github.com/user-attachments/assets/aff7da20-f4f7-48a7-883e-2e4b31937ee1" />
 
 
 **Trending Games**
+
 <img width="7684" height="4322" alt="analytics" src="https://github.com/user-attachments/assets/86d306af-d4a4-4cd2-adc0-467d2a2334ee" />
 
 

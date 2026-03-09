@@ -1,0 +1,313 @@
+name,genre,platform,multiplayer,battle_royale,open_world,fps_shooter,sports,rpg,indie,review_score,player_count_millions,indian_popularity,release_year,developer,publisher
+BGMI,Battle Royale,Mobile,1,1,0,1,0,0,0,4.1,100,10,2021,Krafton,Krafton
+Free Fire,Battle Royale,Mobile,1,1,0,1,0,0,0,4.2,150,10,2017,Garena,Garena
+Free Fire MAX,Battle Royale,Mobile,1,1,0,1,0,0,0,4.3,80,10,2021,Garena,Garena
+PUBG Mobile,Battle Royale,Mobile,1,1,0,1,0,0,0,4.0,600,10,2018,Krafton,Krafton
+PUBG Mobile Lite,Battle Royale,Mobile,1,1,0,1,0,0,0,3.9,60,10,2019,Krafton,Krafton
+Call of Duty Mobile,FPS,Mobile,1,1,0,1,0,0,0,4.5,270,9,2019,TiMi Studio,Activision
+Apex Legends Mobile,Battle Royale,Mobile,1,1,0,1,0,0,0,3.8,50,7,2022,Respawn,EA
+Fortnite Mobile,Battle Royale,Mobile,1,1,0,1,0,0,0,4.2,100,6,2018,Epic Games,Epic Games
+Warzone Mobile,Battle Royale,Mobile,1,1,0,1,0,0,0,3.9,40,7,2024,Activision,Activision
+Indus Battle Royale,Battle Royale,Mobile,1,1,0,1,0,0,0,3.5,10,9,2023,SuperGaming,SuperGaming
+FAU-G,Action,Mobile,1,0,0,1,0,0,0,2.8,5,8,2021,nCore Games,nCore Games
+Rules of Survival,Battle Royale,Mobile,1,1,0,1,0,0,0,3.8,40,8,2017,NetEase,NetEase
+Knives Out,Battle Royale,Mobile,1,1,0,0,0,0,0,3.9,50,7,2017,NetEase,NetEase
+Cyber Hunter,Battle Royale,Mobile,1,1,0,1,0,0,0,3.7,20,6,2019,NetEase,NetEase
+Zooba,Battle Royale,Mobile,1,1,0,0,0,0,0,4.0,30,6,2020,Wildlife Studios,Wildlife Studios
+Stumble Guys,Battle Royale,Mobile,1,1,0,0,0,0,0,4.1,100,8,2021,Scopely,Scopely
+Naraka Mobile,Battle Royale,Mobile,1,1,0,0,0,0,0,3.8,15,5,2023,24 Entertainment,NetEase
+Battlelands Royale,Battle Royale,Mobile,1,1,0,0,0,0,0,3.6,10,5,2018,Futureplay,Futureplay
+Creative Destruction,Battle Royale,Mobile,1,1,0,0,0,0,0,3.7,20,6,2018,NimbleGames,NimbleGames
+Super Sus,Social Deduction,Mobile,1,0,0,0,0,0,0,4.0,30,7,2021,PIProductions,PIProductions
+Garena Undawn,Survival,Mobile,1,0,1,0,0,0,0,3.8,10,6,2023,Lightspeed,Garena
+Dawn of Isles,RPG,Mobile,1,0,1,0,0,1,0,3.9,5,5,2019,NetEase,NetEase
+ScarFall,Battle Royale,Mobile,1,1,0,1,0,0,0,3.5,8,8,2018,Mobzway,Mobzway
+Hopscotch Royale,Battle Royale,Mobile,1,1,0,0,0,0,1,3.4,3,6,2021,Zynga,Zynga
+Modern Combat 5,FPS,Mobile,1,0,0,1,0,0,0,4.1,50,8,2014,Gameloft,Gameloft
+Modern Combat Versus,FPS,Mobile,1,0,0,1,0,0,0,3.9,20,7,2017,Gameloft,Gameloft
+Critical Ops,FPS,Mobile,1,0,0,1,0,0,0,4.2,50,7,2015,Critical Force,Critical Force
+Standoff 2,FPS,Mobile,1,0,0,1,0,0,0,4.3,70,7,2017,Axlebolt,Axlebolt
+Bullet Force,FPS,Mobile,1,0,0,1,0,0,0,3.9,20,6,2016,Lucas Wilde,Lucas Wilde
+Dead Trigger 2,FPS,Mobile,1,0,0,1,0,0,0,4.0,50,7,2013,Madfinger Games,Madfinger Games
+N.O.V.A. Legacy,FPS,Mobile,1,0,0,1,0,0,0,4.0,30,6,2017,Gameloft,Gameloft
+Infinity Ops,FPS,Mobile,1,0,0,1,0,0,0,3.8,15,5,2018,Azur Interactive,Azur Interactive
+Special Forces Group 2,FPS,Mobile,1,0,0,1,0,0,0,3.7,30,7,2015,ForgeGames,ForgeGames
+Tacticool,FPS,Mobile,1,0,0,1,0,0,0,4.0,10,6,2018,Panzerdog,Panzerdog
+Zero Hour,FPS,Mobile,1,0,0,1,0,0,0,4.1,5,7,2021,M7 Productions,M7 Productions
+Strike Force Heroes,FPS,Mobile,1,0,0,1,0,0,0,3.8,10,6,2016,Sky9 Games,Sky9 Games
+Afterpulse,FPS,Mobile,1,0,0,1,0,0,0,3.9,8,5,2015,Digital Legends,Digital Legends
+Shadowgun Legends,FPS,Mobile,1,0,0,1,0,0,0,4.1,10,6,2018,Madfinger Games,Madfinger Games
+Into the Dead 2,FPS,Mobile,0,0,0,1,0,0,0,4.3,20,6,2017,PikPok,PikPok
+Shadow Fight 3,Fighting,Mobile,1,0,0,0,0,0,0,4.3,100,9,2017,Nekki,Nekki
+Shadow Fight 4,Fighting,Mobile,1,0,0,0,0,0,0,4.2,50,9,2021,Nekki,Nekki
+Shadow Fight 2,Fighting,Mobile,1,0,0,0,0,0,0,4.5,100,10,2013,Nekki,Nekki
+Mortal Kombat Mobile,Fighting,Mobile,1,0,0,0,0,0,0,4.0,50,7,2015,NetherRealm,WB Games
+Injustice 2,Fighting,Mobile,1,0,0,0,0,0,0,4.2,30,6,2017,NetherRealm,WB Games
+Street Fighter IV CE,Fighting,Mobile,1,0,0,0,0,0,0,3.9,10,6,2017,Capcom,Capcom
+Real Boxing 2,Fighting,Mobile,1,0,0,0,1,0,0,4.0,20,7,2015,Vivid Games,Vivid Games
+WWE Champions,Fighting,Mobile,1,0,0,0,1,0,0,3.8,15,6,2015,Scopely,Scopely
+Marvel Contest of Champions,Fighting,Mobile,1,0,0,0,0,0,0,4.2,30,7,2014,Kabam,Kabam
+Dragon Ball Legends,Fighting,Mobile,1,0,0,0,0,0,0,4.1,20,7,2018,Bandai Namco,Bandai Namco
+Mobile Legends,MOBA,Mobile,1,0,0,0,0,0,0,4.1,120,8,2016,Moonton,Moonton
+Honor of Kings,MOBA,Mobile,1,0,0,0,0,0,0,4.2,100,6,2015,TiMi Studio,Tencent
+Arena of Valor,MOBA,Mobile,1,0,0,0,0,0,0,3.9,80,6,2016,TiMi Studio,Tencent
+Brawl Stars,Action,Mobile,1,0,0,0,0,0,0,4.3,100,8,2018,Supercell,Supercell
+Wild Rift,MOBA,Mobile,1,0,0,0,0,0,0,4.3,80,7,2020,Riot Games,Riot Games
+Pokemon Unite,MOBA,Mobile,1,0,0,0,0,1,0,3.8,30,7,2021,TiMi Studio,Nintendo
+Vainglory,MOBA,Mobile,1,0,0,0,0,0,0,4.0,10,5,2014,Super Evil,Super Evil
+Heroes Arena,MOBA,Mobile,1,0,0,0,0,0,0,3.7,5,5,2017,uCool,uCool
+Real Cricket 24,Sports,Mobile,1,0,0,0,1,0,0,4.3,30,10,2024,Nautilus Mobile,Nautilus Mobile
+WCC3,Sports,Mobile,1,0,0,0,1,0,0,4.2,50,10,2019,Next Wave,Next Wave
+Cricket Champions,Sports,Mobile,1,0,0,0,1,0,0,3.8,10,10,2022,Turbine Games,Turbine Games
+Stick Cricket Super League,Sports,Mobile,1,0,0,0,1,0,0,4.1,10,9,2018,Stick Sports,Stick Sports
+FIFA Mobile,Sports,Mobile,1,0,0,0,1,0,0,4.0,100,8,2016,EA Sports,EA
+eFootball Mobile,Sports,Mobile,1,0,0,0,1,0,0,3.6,50,7,2021,Konami,Konami
+NBA Live Mobile,Sports,Mobile,1,0,0,0,1,0,0,3.8,20,5,2016,EA Sports,EA
+8 Ball Pool,Sports,Mobile,1,0,0,0,1,0,0,4.4,100,9,2013,Miniclip,Miniclip
+Carrom Pool,Sports,Mobile,1,0,0,0,1,0,0,4.3,50,10,2017,Miniclip,Miniclip
+Asphalt 9,Racing,Mobile,1,0,0,0,0,0,0,4.5,50,9,2018,Gameloft,Gameloft
+Asphalt 8,Racing,Mobile,1,0,0,0,0,0,0,4.3,100,9,2013,Gameloft,Gameloft
+Real Racing 3,Racing,Mobile,1,0,0,0,0,0,0,4.2,50,7,2013,Firemonkeys,EA
+Pro Kabaddi,Sports,Mobile,1,0,0,0,1,0,0,3.5,5,9,2019,Gameberry,Gameberry
+Snooker Stars,Sports,Mobile,1,0,0,0,1,0,0,3.8,10,7,2016,Gameberry,Gameberry
+Dream11,Fantasy Sports,Mobile,1,0,0,0,1,0,0,4.2,130,10,2012,Dream Sports,Dream Sports
+MPL,eSports,Mobile,1,0,0,0,0,0,0,3.8,60,10,2018,MPL,MPL
+Winzo,eSports,Mobile,1,0,0,0,0,0,0,3.9,30,10,2018,WinZO,WinZO
+Chess.com,Strategy,Mobile,1,0,0,0,0,0,0,4.6,50,9,2007,Chess.com,Chess.com
+Clash of Clans,Strategy,Mobile,1,0,0,0,0,0,0,4.4,200,9,2012,Supercell,Supercell
+Clash Royale,Strategy,Mobile,1,0,0,0,0,0,0,4.3,100,8,2016,Supercell,Supercell
+Rise of Kingdoms,Strategy,Mobile,1,0,1,0,0,0,0,4.2,50,7,2018,Lilith Games,Lilith Games
+State of Survival,Strategy,Mobile,1,0,1,0,0,0,0,4.0,30,6,2019,KingsGroup,FunPlus
+Lords Mobile,Strategy,Mobile,1,0,1,0,0,0,0,4.1,50,7,2016,IGG,IGG
+Boom Beach,Strategy,Mobile,1,0,0,0,0,0,0,4.0,30,7,2014,Supercell,Supercell
+Ludo King,Board,Mobile,1,0,0,0,0,0,0,4.5,100,10,2016,Gametion,Gametion
+Teen Patti Gold,Card,Mobile,1,0,0,0,0,0,0,4.2,50,10,2014,Octro,Octro
+Rummy Culture,Card,Mobile,1,0,0,0,0,0,0,3.8,20,9,2018,Games24x7,Games24x7
+Candy Crush Saga,Casual,Mobile,0,0,0,0,0,0,0,4.1,200,8,2012,King,King
+Subway Surfers,Endless Runner,Mobile,0,0,0,0,0,0,0,4.3,150,9,2012,Kiloo,Kiloo
+Temple Run 2,Endless Runner,Mobile,0,0,0,0,0,0,0,4.2,100,8,2013,Imangi,Imangi
+Among Us,Social Deduction,Mobile,1,0,0,0,0,0,1,4.0,100,8,2018,InnerSloth,InnerSloth
+Pokemon GO,AR Adventure,Mobile,1,0,1,0,0,1,0,3.9,150,7,2016,Niantic,Niantic
+Minecraft Mobile,Sandbox,Mobile,1,0,1,0,0,0,0,4.4,100,8,2011,Mojang,Microsoft
+Gardenscapes,Casual,Mobile,0,0,0,0,0,0,0,4.0,80,6,2016,Playrix,Playrix
+Fruit Ninja,Casual,Mobile,0,0,0,0,0,0,0,4.1,50,7,2010,Halfbrick,Halfbrick
+Angry Birds 2,Casual,Mobile,0,0,0,0,0,0,0,4.2,60,8,2015,Rovio,Rovio
+Genshin Impact,RPG,Mobile,1,0,1,0,0,1,0,4.5,60,8,2020,HoYoverse,HoYoverse
+Honkai Star Rail,RPG,Mobile,1,0,0,0,0,1,0,4.6,20,7,2023,HoYoverse,HoYoverse
+AFK Arena,RPG,Mobile,1,0,0,0,0,1,0,4.1,30,7,2019,Lilith Games,Lilith Games
+Raid Shadow Legends,RPG,Mobile,1,0,0,0,0,1,0,3.9,20,6,2018,Plarium,Plarium
+Summoners War,RPG,Mobile,1,0,0,0,0,1,0,4.2,30,7,2014,Com2uS,Com2uS
+Black Desert Mobile,RPG,Mobile,1,0,1,0,0,1,0,4.2,10,6,2019,Pearl Abyss,Pearl Abyss
+Diablo Immortal,RPG,Mobile,1,0,0,0,0,1,0,3.5,10,5,2022,Blizzard,Blizzard
+Dungeon Hunter 6,RPG,Mobile,1,0,0,0,0,1,0,3.8,10,6,2022,Gameloft,Gameloft
+Lineage 2M,RPG,Mobile,1,0,1,0,0,1,0,4.0,5,4,2019,NCSoft,NCSoft
+Eternal Love,RPG,Mobile,1,0,1,0,0,1,0,4.1,8,5,2018,Efun,Efun
+PUBG PC,Battle Royale,PC,1,1,0,1,0,0,0,4.2,30,9,2017,Krafton,Krafton
+Fortnite,Battle Royale,PC,1,1,0,1,0,0,0,4.3,100,8,2017,Epic Games,Epic Games
+Apex Legends,Battle Royale,PC,1,1,0,1,0,0,0,4.4,100,8,2019,Respawn,EA
+Call of Duty Warzone,Battle Royale,PC,1,1,0,1,0,0,0,4.1,100,8,2020,Activision,Activision
+Fall Guys,Battle Royale,PC,1,1,0,0,0,0,0,4.0,50,7,2020,Mediatonic,Epic Games
+Naraka Bladepoint,Battle Royale,PC,1,1,0,0,0,0,0,4.0,10,5,2021,24 Entertainment,NetEase
+The Cycle Frontier,Battle Royale,PC,1,1,0,1,0,0,0,3.5,3,4,2022,YAGER,YAGER
+Super People,Battle Royale,PC,1,1,0,1,0,0,0,3.4,2,3,2022,Wonder People,Wonder People
+Spellbreak,Battle Royale,PC,1,1,0,0,0,1,0,3.5,2,3,2020,Proletariat,Proletariat
+Hyper Scape,Battle Royale,PC,1,1,0,1,0,0,0,3.3,2,3,2020,Ubisoft,Ubisoft
+Realm Royale,Battle Royale,PC,1,1,0,1,0,0,0,3.4,2,3,2018,Hi-Rez,Hi-Rez
+Darwin Project,Battle Royale,PC,1,1,0,0,0,0,0,3.6,1,3,2018,Scavengers,Scavengers
+Valorant,FPS,PC,1,0,0,1,0,0,0,4.5,20,9,2020,Riot Games,Riot Games
+CS2,FPS,PC,1,0,0,1,0,0,0,4.3,30,9,2023,Valve,Valve
+CS GO,FPS,PC,1,0,0,1,0,0,0,4.4,30,10,2012,Valve,Valve
+Overwatch 2,FPS,PC,1,0,0,1,0,0,0,3.9,25,7,2022,Blizzard,Blizzard
+Battlefield 2042,FPS,PC,1,0,0,1,0,0,0,3.5,10,6,2021,DICE,EA
+Battlefield 1,FPS,PC,1,0,0,1,0,0,0,4.5,10,7,2016,DICE,EA
+Halo Infinite,FPS,PC,1,0,0,1,0,0,0,4.0,20,6,2021,343 Industries,Microsoft
+Rainbow Six Siege,FPS,PC,1,0,0,1,0,0,0,4.3,20,7,2015,Ubisoft,Ubisoft
+Escape From Tarkov,FPS,PC,1,0,0,1,0,0,0,4.2,3,4,2017,Battlestate,Battlestate
+Hunt Showdown,FPS,PC,1,0,0,1,0,0,0,4.1,3,4,2019,Crytek,Crytek
+The Finals,FPS,PC,1,0,0,1,0,0,0,3.8,10,5,2023,Embark Studios,Embark Studios
+Payday 2,FPS,PC,1,0,0,1,0,0,0,4.3,10,7,2013,Overkill,505 Games
+Payday 3,FPS,PC,1,0,0,1,0,0,0,3.2,3,5,2023,Starbreeze,Deep Silver
+Left 4 Dead 2,FPS,PC,1,0,0,1,0,0,0,4.8,10,8,2009,Valve,Valve
+Back 4 Blood,FPS,PC,1,0,0,1,0,0,0,3.8,5,5,2021,Turtle Rock,WB Games
+Deep Rock Galactic,FPS,PC,1,0,0,1,0,0,1,4.9,5,6,2020,Ghost Ship,Coffee Stain
+Titanfall 2,FPS,PC,1,0,0,1,0,0,0,4.8,3,6,2016,Respawn,EA
+Doom Eternal,FPS,PC,0,0,0,1,0,0,0,4.7,5,7,2020,id Software,Bethesda
+Deathloop,FPS,PC,0,0,0,1,0,0,0,4.3,2,5,2021,Arkane,Bethesda
+Prey,FPS,PC,0,0,0,1,0,1,0,4.5,3,5,2017,Arkane,Bethesda
+Dishonored 2,FPS,PC,0,0,0,1,0,1,0,4.6,3,5,2016,Arkane,Bethesda
+Wolfenstein New Blood,FPS,PC,0,0,0,1,0,0,0,4.5,2,6,2019,MachineGames,Bethesda
+Quake Champions,FPS,PC,1,0,0,1,0,0,0,4.0,2,4,2017,id Software,Bethesda
+Destiny 2,FPS RPG,PC,1,0,0,1,0,1,0,4.1,30,6,2019,Bungie,Bungie
+Warframe,FPS RPG,PC,1,0,0,1,0,1,0,4.5,50,7,2013,Digital Extremes,Digital Extremes
+Far Cry 6,FPS,PC,0,0,1,1,0,0,0,4.0,5,7,2021,Ubisoft,Ubisoft
+Battlefront 2,FPS,PC,1,0,0,1,0,0,0,3.8,5,6,2017,DICE,EA
+Max Payne 3,Action,PC,0,0,0,1,0,0,0,4.5,5,8,2012,Rockstar,Rockstar
+Resident Evil 4 Remake,Survival Horror,PC,0,0,0,1,0,0,0,4.8,5,7,2023,Capcom,Capcom
+Resident Evil Village,Survival Horror,PC,0,0,0,1,0,0,0,4.6,5,7,2021,Capcom,Capcom
+GTA V,Open World,PC,1,0,1,0,0,0,0,4.7,200,10,2013,Rockstar,Rockstar
+Red Dead Redemption 2,Open World,PC,1,0,1,0,0,1,0,4.8,20,8,2018,Rockstar,Rockstar
+Cyberpunk 2077,RPG,PC,0,0,1,0,0,1,0,4.5,25,8,2020,CD Projekt Red,CD Projekt
+Witcher 3,RPG,PC,0,0,1,0,0,1,0,4.9,20,8,2015,CD Projekt Red,CD Projekt
+Elden Ring,RPG,PC,1,0,1,0,0,1,0,4.8,20,7,2022,FromSoftware,Bandai Namco
+Dark Souls 3,RPG,PC,1,0,0,0,0,1,0,4.7,10,6,2016,FromSoftware,Bandai Namco
+Sekiro,Action,PC,0,0,0,0,0,1,0,4.8,5,6,2019,FromSoftware,Activision
+Baldurs Gate 3,RPG,PC,1,0,0,0,0,1,0,4.9,10,6,2023,Larian Studios,Larian Studios
+Divinity Original Sin 2,RPG,PC,1,0,0,0,0,1,0,4.8,5,5,2017,Larian Studios,Larian Studios
+God of War PC,Action,PC,0,0,1,0,0,1,0,4.9,5,8,2022,Santa Monica,Sony
+Spider Man PC,Action,PC,0,0,1,0,0,0,0,4.8,5,9,2022,Insomniac,Sony
+Horizon Zero Dawn PC,RPG,PC,0,0,1,0,0,1,0,4.7,5,7,2020,Guerrilla,Sony
+Assassins Creed Valhalla,RPG,PC,0,0,1,0,0,1,0,4.3,10,8,2020,Ubisoft,Ubisoft
+Assassins Creed Mirage,Action,PC,0,0,1,0,0,0,0,4.0,5,7,2023,Ubisoft,Ubisoft
+Dying Light 2,Action,PC,1,0,1,1,0,0,0,4.2,5,7,2022,Techland,Techland
+Days Gone,Action,PC,0,0,1,1,0,0,0,4.4,5,7,2021,Bend Studio,Sony
+Death Stranding,Action,PC,0,0,1,0,0,0,0,4.2,3,6,2020,Kojima Productions,Sony
+Control,Action,PC,0,0,0,1,0,0,0,4.5,3,6,2019,Remedy,505 Games
+Alan Wake 2,Horror,PC,0,0,0,0,0,0,0,4.7,2,5,2023,Remedy,Epic Games
+Hogwarts Legacy PC,RPG,PC,0,0,1,0,0,1,0,4.5,10,9,2023,Avalanche,WB Games
+Disco Elysium,RPG,PC,0,0,0,0,0,1,1,4.8,2,4,2019,ZA/UM,ZA/UM
+Path of Exile,RPG,PC,1,0,0,0,0,1,1,4.6,10,6,2013,Grinding Gear,Grinding Gear
+Diablo IV,RPG,PC,1,0,0,0,0,1,0,4.1,10,6,2023,Blizzard,Blizzard
+Raji An Ancient Epic,Action,PC,0,0,0,0,0,1,0,4.0,1,9,2020,Nodding Heads,Super.com
+Star Wars Jedi Survivor,Action,PC,0,0,1,0,0,1,0,4.6,5,7,2023,Respawn,EA
+FIFA 24,Sports,PC,1,0,0,0,1,0,0,4.0,20,8,2023,EA Sports,EA
+EA Sports FC 24,Sports,PC,1,0,0,0,1,0,0,4.1,20,8,2023,EA Sports,EA
+eFootball 2024,Sports,PC,1,0,0,0,1,0,0,3.5,10,7,2023,Konami,Konami
+NBA 2K24,Sports,PC,1,0,0,0,1,0,0,3.8,10,5,2023,Visual Concepts,2K
+WWE 2K24,Sports,PC,1,0,0,0,1,0,0,4.0,5,6,2024,Visual Concepts,2K
+Rocket League,Sports,PC,1,0,0,0,1,0,0,4.6,30,7,2015,Psyonix,Epic Games
+Cricket 24,Sports,PC,1,0,0,0,1,0,0,4.1,5,9,2023,Big Ant,Big Ant
+Cricket 22,Sports,PC,1,0,0,0,1,0,0,4.0,5,9,2021,Big Ant,Big Ant
+F1 24,Sports,PC,1,0,0,0,1,0,0,4.1,5,6,2024,Codemasters,EA
+Forza Motorsport,Racing,PC,1,0,0,0,1,0,0,4.2,5,5,2023,Turn 10,Microsoft
+Football Manager 2024,Sports,PC,0,0,0,0,1,0,0,4.4,3,6,2023,Sports Interactive,SEGA
+PGA Tour 2K23,Sports,PC,1,0,0,0,1,0,0,4.0,2,4,2022,HB Studios,2K
+Dota 2,MOBA,PC,1,0,0,0,0,0,0,4.5,15,8,2013,Valve,Valve
+League of Legends,MOBA,PC,1,0,0,0,0,0,0,4.4,30,8,2009,Riot Games,Riot Games
+Smite,MOBA,PC,1,0,0,0,0,0,0,4.0,10,5,2014,Hi-Rez,Hi-Rez
+Crusader Kings 3,Strategy,PC,1,0,1,0,0,1,0,4.6,3,5,2020,Paradox,Paradox
+Stellaris,Strategy,PC,1,0,1,0,0,0,0,4.5,3,4,2016,Paradox,Paradox
+Age of Empires IV,Strategy,PC,1,0,0,0,0,0,0,4.5,3,6,2021,World Edge,Microsoft
+Age of Empires II DE,Strategy,PC,1,0,0,0,0,0,0,4.8,5,7,1999,Ensemble,Microsoft
+Minecraft,Sandbox,PC,1,0,1,0,0,0,0,4.8,150,9,2011,Mojang,Microsoft
+Stardew Valley,Simulation,PC,1,0,0,0,0,1,1,4.9,20,7,2016,ConcernedApe,ConcernedApe
+Hades,Roguelike,PC,0,0,0,0,0,1,1,4.9,5,6,2020,Supergiant,Supergiant
+Hollow Knight,Platformer,PC,0,0,0,0,0,0,1,4.9,5,5,2017,Team Cherry,Team Cherry
+Celeste,Platformer,PC,0,0,0,0,0,0,1,4.8,3,4,2018,Maddy Thorson,Matt Makes Games
+Dead Cells,Roguelike,PC,0,0,0,0,0,0,1,4.7,5,5,2018,Motion Twin,Motion Twin
+Cuphead,Platformer,PC,0,0,0,0,0,0,1,4.7,5,5,2017,Studio MDHR,Studio MDHR
+It Takes Two,Co-op,PC,1,0,0,0,0,0,0,4.9,5,6,2021,Hazelight,EA
+Portal 2,Puzzle,PC,1,0,0,0,0,0,0,4.9,10,7,2011,Valve,Valve
+Phasmophobia,Horror,PC,1,0,0,0,0,0,1,4.5,5,6,2020,Kinetic Games,Kinetic Games
+Dead by Daylight,Horror,PC,1,0,0,0,0,0,0,4.1,15,6,2016,Behaviour,Behaviour
+Lethal Company,Horror,PC,1,0,0,0,0,0,1,4.7,5,6,2023,Zeekerss,Zeekerss
+Hi Fi Rush,Action,PC,0,0,0,0,0,0,0,4.7,3,6,2023,Tango Gameworks,Microsoft
+God of War PS4,Action,PlayStation,0,0,1,0,0,1,0,4.9,10,9,2018,Santa Monica,Sony
+God of War Ragnarok,Action,PlayStation,0,0,1,0,0,1,0,4.9,10,9,2022,Santa Monica,Sony
+Spider Man 2,Action,PlayStation,0,0,1,0,0,0,0,4.8,5,9,2023,Insomniac,Sony
+Spider Man Miles Morales,Action,PlayStation,0,0,1,0,0,0,0,4.8,5,9,2020,Insomniac,Sony
+Horizon Forbidden West,RPG,PlayStation,0,0,1,0,0,1,0,4.7,5,8,2022,Guerrilla,Sony
+Last of Us Part 1,Action,PlayStation,0,0,0,0,0,0,0,4.9,5,9,2022,Naughty Dog,Sony
+Last of Us Part 2,Action,PlayStation,0,0,0,0,0,0,0,4.7,5,9,2020,Naughty Dog,Sony
+Ghost of Tsushima,Action,PlayStation,0,0,1,0,0,0,0,4.8,5,8,2020,Sucker Punch,Sony
+Returnal,Roguelike,PlayStation,0,0,0,1,0,0,0,4.5,2,5,2021,Housemarque,Sony
+Demon Souls Remake,RPG,PlayStation,0,0,0,0,0,1,0,4.7,2,6,2020,Bluepoint,Sony
+Bloodborne,RPG,PlayStation,0,0,0,0,0,1,0,4.9,5,7,2015,FromSoftware,Sony
+Persona 5 Royal,RPG,PlayStation,0,0,0,0,0,1,0,4.9,3,7,2019,Atlus,Atlus
+Ratchet and Clank Rift Apart,Platformer,PlayStation,0,0,0,0,0,0,0,4.8,3,6,2021,Insomniac,Sony
+Astro Bot,Platformer,PlayStation,0,0,0,0,0,0,0,4.9,3,6,2024,Team Asobi,Sony
+Gran Turismo 7,Racing,PlayStation,0,0,0,0,1,0,0,4.6,5,6,2022,Polyphony,Sony
+PUBG PS4,Battle Royale,PlayStation,1,1,0,1,0,0,0,4.0,10,8,2018,Krafton,Krafton
+Fortnite PS5,Battle Royale,PlayStation,1,1,0,1,0,0,0,4.3,50,7,2017,Epic Games,Epic Games
+Apex Legends PS4,Battle Royale,PlayStation,1,1,0,1,0,0,0,4.3,50,7,2019,Respawn,EA
+Call of Duty MW3 PS5,FPS,PlayStation,1,0,0,1,0,0,0,3.8,20,8,2023,Sledgehammer,Activision
+Hogwarts Legacy PS5,RPG,PlayStation,0,0,1,0,0,1,0,4.5,10,9,2023,Avalanche,WB Games
+Baldurs Gate 3 PS5,RPG,PlayStation,1,0,0,0,0,1,0,4.9,5,6,2023,Larian Studios,Larian Studios
+Final Fantasy XVI,RPG,PlayStation,0,0,1,0,0,1,0,4.5,3,6,2023,Square Enix,Square Enix
+Street Fighter 6,Fighting,PlayStation,1,0,0,0,0,0,0,4.6,3,7,2023,Capcom,Capcom
+Tekken 8,Fighting,PlayStation,1,0,0,0,0,0,0,4.7,3,8,2024,Bandai Namco,Bandai Namco
+Mortal Kombat 1,Fighting,PlayStation,1,0,0,0,0,0,0,4.2,3,7,2023,NetherRealm,WB Games
+FC 24 PS5,Sports,PlayStation,1,0,0,0,1,0,0,4.1,10,9,2023,EA Sports,EA
+NBA 2K24 PS5,Sports,PlayStation,1,0,0,0,1,0,0,3.9,5,5,2023,Visual Concepts,2K
+Rocket League PS4,Sports,PlayStation,1,0,0,0,1,0,0,4.6,20,7,2015,Psyonix,Epic Games
+Resident Evil 4 PS5,Survival Horror,PlayStation,0,0,0,1,0,0,0,4.8,5,8,2023,Capcom,Capcom
+Lies of P PS5,RPG,PlayStation,0,0,0,0,0,1,0,4.5,2,5,2023,Round8 Studio,Neowiz
+Death Stranding PS4,Action,PlayStation,0,0,1,0,0,0,0,4.2,3,7,2019,Kojima Productions,Sony
+Kena Bridge of Spirits,Action,PlayStation,0,0,1,0,0,0,1,4.5,2,6,2021,Ember Lab,Ember Lab
+Sifu,Fighting,PlayStation,0,0,0,0,0,0,0,4.5,2,6,2022,Sloclap,Sloclap
+Stray,Adventure,PlayStation,0,0,1,0,0,0,1,4.5,2,6,2022,BlueTwelve,Annapurna
+Sackboy,Platformer,PlayStation,0,0,0,0,0,0,0,4.6,2,6,2020,Sumo Digital,Sony
+Forbidden West DLC,RPG,PlayStation,0,0,1,0,0,1,0,4.6,3,7,2023,Guerrilla,Sony
+Final Fantasy VII Rebirth,RPG,PlayStation,0,0,1,0,0,1,0,4.7,3,7,2024,Square Enix,Square Enix
+Stellar Blade,Action,PlayStation,0,0,0,0,0,0,0,4.5,2,6,2024,Shift Up,Sony
+Until Dawn,Horror,PlayStation,0,0,0,0,0,0,0,4.4,3,6,2015,Supermassive,Sony
+Uncharted 4,Action,PlayStation,0,0,1,0,0,0,0,4.8,5,8,2016,Naughty Dog,Sony
+Halo Infinite Xbox,FPS,Xbox,1,0,0,1,0,0,0,4.0,10,6,2021,343 Industries,Microsoft
+Forza Horizon 5,Racing,Xbox,0,0,1,0,0,0,0,4.8,20,7,2021,Playground,Microsoft
+Forza Horizon 4,Racing,Xbox,0,0,1,0,0,0,0,4.7,15,7,2018,Playground,Microsoft
+Gears 5,Action,Xbox,1,0,0,1,0,0,0,4.3,5,5,2019,The Coalition,Microsoft
+Sea of Thieves,Adventure,Xbox,1,0,1,0,0,0,0,4.2,15,6,2018,Rare,Microsoft
+Minecraft Xbox,Sandbox,Xbox,1,0,1,0,0,0,0,4.8,50,8,2011,Mojang,Microsoft
+Starfield,RPG,Xbox,0,0,1,0,0,1,0,3.9,5,6,2023,Bethesda,Microsoft
+Elder Scrolls Skyrim Xbox,RPG,Xbox,0,0,1,0,0,1,0,4.8,20,8,2011,Bethesda,Microsoft
+Fallout 4 Xbox,RPG,Xbox,0,0,1,0,0,1,0,4.5,15,7,2015,Bethesda,Microsoft
+Fortnite Xbox,Battle Royale,Xbox,1,1,0,1,0,0,0,4.3,50,7,2017,Epic Games,Epic Games
+PUBG Xbox,Battle Royale,Xbox,1,1,0,1,0,0,0,4.0,10,7,2018,Krafton,Krafton
+Apex Legends Xbox,Battle Royale,Xbox,1,1,0,1,0,0,0,4.3,30,6,2019,Respawn,EA
+Call of Duty Xbox,FPS,Xbox,1,0,0,1,0,0,0,4.0,30,7,2023,Activision,Microsoft
+Rocket League Xbox,Sports,Xbox,1,0,0,0,1,0,0,4.6,15,6,2015,Psyonix,Epic Games
+FC 24 Xbox,Sports,Xbox,1,0,0,0,1,0,0,4.1,10,8,2023,EA Sports,EA
+Tekken 8 Xbox,Fighting,Xbox,1,0,0,0,0,0,0,4.6,2,7,2024,Bandai Namco,Bandai Namco
+Age of Empires IV Xbox,Strategy,Xbox,1,0,0,0,0,0,0,4.5,3,6,2021,World Edge,Microsoft
+Hi Fi Rush Xbox,Action,Xbox,0,0,0,0,0,0,0,4.7,3,6,2023,Tango Gameworks,Microsoft
+Ori and the Wisps Xbox,Platformer,Xbox,0,0,0,0,0,0,1,4.8,2,4,2020,Moon Studios,Microsoft
+It Takes Two Xbox,Co-op,Xbox,1,0,0,0,0,0,0,4.9,3,6,2021,Hazelight,EA
+Psychonauts 2,Platformer,Xbox,0,0,0,0,0,0,0,4.7,2,5,2021,Double Fine,Microsoft
+Grounded,Survival,Xbox,1,0,1,0,0,0,0,4.4,5,6,2022,Obsidian,Microsoft
+The Outer Worlds,RPG,Xbox,0,0,1,0,0,1,0,4.4,3,6,2019,Obsidian,Private Division
+Pentiment,Adventure,Xbox,0,0,0,0,0,0,1,4.5,1,5,2022,Obsidian,Microsoft
+Hollow Knight Silksong,Platformer,Xbox,0,0,0,0,0,0,1,4.8,2,5,2024,Team Cherry,Team Cherry
+Zelda Tears of the Kingdom,Action,Nintendo,0,0,1,0,0,1,0,4.9,10,7,2023,Nintendo,Nintendo
+Zelda Breath of the Wild,Action,Nintendo,0,0,1,0,0,1,0,4.9,15,7,2017,Nintendo,Nintendo
+Super Mario Odyssey,Platformer,Nintendo,0,0,1,0,0,0,0,4.9,15,7,2017,Nintendo,Nintendo
+Mario Kart 8 Deluxe,Racing,Nintendo,1,0,0,0,1,0,0,4.8,40,7,2017,Nintendo,Nintendo
+Pokemon Scarlet Violet,RPG,Nintendo,1,0,1,0,0,1,0,3.8,15,8,2022,Game Freak,Nintendo
+Pokemon Legends Arceus,RPG,Nintendo,0,0,1,0,0,1,0,4.4,10,8,2022,Game Freak,Nintendo
+Animal Crossing New Horizons,Simulation,Nintendo,1,0,1,0,0,0,0,4.5,30,7,2020,Nintendo,Nintendo
+Splatoon 3,Action,Nintendo,1,0,0,1,0,0,0,4.4,10,6,2022,Nintendo,Nintendo
+Super Smash Bros Ultimate,Fighting,Nintendo,1,0,0,0,0,0,0,4.8,20,7,2018,Sora Ltd,Nintendo
+Fire Emblem Engage,RPG,Nintendo,0,0,0,0,0,1,0,4.3,3,5,2023,Intelligent Systems,Nintendo
+Kirby Forgotten Land,Platformer,Nintendo,0,0,1,0,0,0,0,4.7,3,6,2022,HAL Laboratory,Nintendo
+Metroid Dread,Action,Nintendo,0,0,0,1,0,0,0,4.7,2,5,2021,MercurySteam,Nintendo
+Bayonetta 3,Action,Nintendo,0,0,0,0,0,0,0,4.4,2,4,2022,PlatinumGames,Nintendo
+Xenoblade Chronicles 3,RPG,Nintendo,0,0,1,0,0,1,0,4.6,2,4,2022,Monolith Soft,Nintendo
+Pikmin 4,Strategy,Nintendo,0,0,0,0,0,0,0,4.6,2,4,2023,Nintendo,Nintendo
+Fortnite Nintendo,Battle Royale,Nintendo,1,1,0,1,0,0,0,4.2,30,6,2018,Epic Games,Epic Games
+Among Us Nintendo,Social Deduction,Nintendo,1,0,0,0,0,0,1,4.1,20,7,2021,InnerSloth,InnerSloth
+Fall Guys Nintendo,Battle Royale,Nintendo,1,1,0,0,0,0,0,3.9,15,6,2021,Mediatonic,Epic Games
+Minecraft Nintendo,Sandbox,Nintendo,1,0,1,0,0,0,0,4.7,30,8,2018,Mojang,Microsoft
+Rocket League Nintendo,Sports,Nintendo,1,0,0,0,1,0,0,4.5,10,6,2017,Psyonix,Epic Games
+Overcooked 2,Co-op,Nintendo,1,0,0,0,0,0,0,4.5,5,7,2018,Ghost Town Games,Team17
+Moving Out,Co-op,Nintendo,1,0,0,0,0,0,0,4.3,3,6,2020,SMG Studio,Team17
+Untitled Goose Game,Indie,Nintendo,0,0,0,0,0,0,1,4.4,3,6,2019,House House,Panic
+Stardew Valley Nintendo,Simulation,Nintendo,1,0,0,0,0,1,1,4.8,10,7,2016,ConcernedApe,ConcernedApe
+Hades Nintendo,Roguelike,Nintendo,0,0,0,0,0,1,1,4.9,3,6,2018,Supergiant,Supergiant
+Dead Cells Nintendo,Roguelike,Nintendo,0,0,0,0,0,0,1,4.7,3,5,2018,Motion Twin,Motion Twin
+Hollow Knight Nintendo,Platformer,Nintendo,0,0,0,0,0,0,1,4.9,3,5,2017,Team Cherry,Team Cherry
+Celeste Nintendo,Platformer,Nintendo,0,0,0,0,0,0,1,4.8,2,4,2018,Maddy Thorson,Matt Makes Games
+Cuphead Nintendo,Platformer,Nintendo,0,0,0,0,0,0,1,4.6,3,5,2019,Studio MDHR,Studio MDHR
+Luigi's Mansion 3,Adventure,Nintendo,0,0,0,0,0,0,0,4.7,5,6,2019,Next Level Games,Nintendo
+Paper Mario Origami King,RPG,Nintendo,0,0,0,0,0,1,0,4.3,3,6,2020,Intelligent Systems,Nintendo
+Super Mario 3D World,Platformer,Nintendo,1,0,1,0,0,0,0,4.7,5,6,2021,Nintendo,Nintendo
+Donkey Kong Country TF,Platformer,Nintendo,0,0,0,0,0,0,0,4.6,3,5,2018,Retro Studios,Nintendo
+WarioWare Get It Together,Casual,Nintendo,1,0,0,0,0,0,0,4.2,2,5,2021,Nintendo,Nintendo
+Triangle Strategy,RPG,Nintendo,0,0,0,0,0,1,0,4.4,1,5,2022,Artdink,Square Enix
+Octopath Traveler 2,RPG,Nintendo,0,0,0,0,0,1,0,4.6,1,4,2023,Acquire,Square Enix
+Monster Hunter Rise,Action,Nintendo,1,0,1,0,0,0,0,4.6,5,6,2021,Capcom,Capcom
+Monster Hunter Rise Sunbreak,Action,Nintendo,1,0,1,0,0,1,0,4.7,3,6,2022,Capcom,Capcom
+Neon White,Action,Nintendo,0,0,0,1,0,0,1,4.7,1,5,2022,Angel Matrix,Devolver
+Shovel Knight,Platformer,Nintendo,0,0,0,0,0,0,1,4.7,2,5,2014,Yacht Club,Yacht Club
+Spiritfarer,Simulation,Nintendo,0,0,0,0,0,0,1,4.7,1,5,2020,Thunder Lotus,Thunder Lotus
+Disco Elysium Switch,RPG,Nintendo,0,0,0,0,0,1,1,4.7,1,4,2021,ZA/UM,ZA/UM
+Pokemon Sword Shield,RPG,Nintendo,1,0,1,0,0,1,0,4.2,20,9,2019,Game Freak,Nintendo
+New Pokemon Snap,Adventure,Nintendo,0,0,1,0,0,0,0,4.3,3,7,2021,Bandai Namco,Nintendo
+Big Brain Academy,Casual,Nintendo,1,0,0,0,0,0,0,4.1,2,5,2021,Nintendo,Nintendo

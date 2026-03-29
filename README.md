@@ -9,7 +9,7 @@ An end-to-end machine learning platform that analyzes India's gaming ecosystem a
 
 ## 🚀 Live Demo
 
-> Run locally — see setup instructions below.
+> 🌐 **[Live App → gaming-analytics-kartikeya.streamlit.app](https://gaming-analytics-kartikeya.streamlit.app/)**
 
 ---
 

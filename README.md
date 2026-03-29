@@ -1,7 +1,9 @@
 
 # 🎮 India Gaming Ecosystem Intelligence Platform
 
-An end-to-end machine learning platform that analyzes India's gaming ecosystem across **20,000+ records** — delivering game recommendations, sentiment analysis, market insights, and an interactive Streamlit dashboard.
+An end-to-end machine learning platform that analyzes India's gaming ecosystem across **312 curated game records** — delivering game recommendations, sentiment analysis, market insights, and an interactive Streamlit dashboard.
+
+> **Note on scale:** The Cosine Similarity engine computes a full **312 × 312 similarity matrix — 97,000+ pairwise computations** — comparing every game against every other game to power recommendations.
 
 ---
 
@@ -15,10 +17,10 @@ An end-to-end machine learning platform that analyzes India's gaming ecosystem a
 
 | Feature | Description |
 |---|---|
-| 🤖 ML Classification | Random Forest classifier predicts game category (84% accuracy, 5-fold CV) |
-| 🎯 Recommendations | Cosine Similarity engine suggests similar games based on features |
-| 💬 Sentiment Analysis | VADER NLP analyzes user reviews and classifies sentiment |
-| 📊 Market Analytics | SQL-powered queries on SQLite for market trends and ecosystem insights |
+| 🤖 ML Classification | Random Forest classifier predicts game category — **84% accuracy, 5-fold cross-validation** |
+| 🎯 Recommendations | Cosine Similarity engine computes 97,000+ pairwise comparisons to suggest similar games |
+| 💬 Sentiment Analysis | VADER NLP analyzes user reviews and classifies sentiment as Positive / Neutral / Negative |
+| 📊 Market Analytics | SQL-powered queries on SQLite surface market trends by genre, platform, and region |
 | 🖥️ Dashboard | Interactive Streamlit app with real-time charts and filters |
 
 ---
@@ -47,7 +49,7 @@ india-gaming-intelligence/
 ├── README.md
 │
 └── data/
-    └── games_dataset.csv   # Dataset (20,000+ records)
+    └── games_dataset.csv   # 312-record curated Indian gaming dataset
 ```
 
 ---
@@ -92,11 +94,20 @@ Save as `requirements.txt` in the project folder.
 
 ## 🔍 Key Results
 
-- **84% accuracy** on game category classification (Random Forest, 5-fold CV)
-- **20,000+ records** processed across the full ML pipeline
-- Cosine Similarity recommendation engine returns top-N similar games
-- VADER sentiment classifies reviews as Positive / Neutral / Negative
-- SQL analytics surface market trends by genre, platform, and region
+| Metric | Result |
+|---|---|
+| Classification accuracy | **84%** (Random Forest, 5-fold CV) |
+| Similarity computations | **97,000+** (full 312 × 312 cosine matrix) |
+| Dataset | **312** curated Indian gaming records |
+| Recommendation engine | Top-N similar games via Cosine Similarity |
+| Sentiment engine | VADER — Positive / Neutral / Negative |
+| Analytics layer | SQL queries on SQLite |
+
+---
+
+## 💡 Why 97,000+ Computations?
+
+The recommendation engine builds a **full 312 × 312 similarity matrix** — every game compared against every other in both directions. That equals **97,344 individual similarity computations**, making the engine responsive across the entire dataset with no pre-filtering needed.
 
 ---
 

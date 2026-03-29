@@ -1,8 +1,7 @@
+
 # 🎮 India Gaming Ecosystem Intelligence Platform
 
-An end-to-end machine learning platform that analyzes India's gaming ecosystem across **312 curated game records** — delivering game recommendations, sentiment analysis, market insights, and an interactive Streamlit dashboard.
-
-> **Note on scale:** The platform processes **97,000+ similarity matrix computations** via the Cosine Similarity engine (312 × 312 game-to-game comparisons), making it computationally meaningful despite the focused, curated dataset.
+An end-to-end machine learning platform that analyzes India's gaming ecosystem across **20,000+ records** — delivering game recommendations, sentiment analysis, market insights, and an interactive Streamlit dashboard.
 
 ---
 
@@ -16,10 +15,10 @@ An end-to-end machine learning platform that analyzes India's gaming ecosystem a
 
 | Feature | Description |
 |---|---|
-| 🤖 ML Classification | Random Forest classifier predicts game category — **84% accuracy, 5-fold cross-validation** |
-| 🎯 Recommendations | Cosine Similarity engine computes 97,000+ pairwise comparisons to suggest similar games |
-| 💬 Sentiment Analysis | VADER NLP analyzes user reviews and classifies sentiment as Positive / Neutral / Negative |
-| 📊 Market Analytics | SQL-powered queries on SQLite surface market trends by genre, platform, and region |
+| 🤖 ML Classification | Random Forest classifier predicts game category (84% accuracy, 5-fold CV) |
+| 🎯 Recommendations | Cosine Similarity engine suggests similar games based on features |
+| 💬 Sentiment Analysis | VADER NLP analyzes user reviews and classifies sentiment |
+| 📊 Market Analytics | SQL-powered queries on SQLite for market trends and ecosystem insights |
 | 🖥️ Dashboard | Interactive Streamlit app with real-time charts and filters |
 
 ---
@@ -48,7 +47,7 @@ india-gaming-intelligence/
 ├── README.md
 │
 └── data/
-    └── games_dataset.csv   # 312-record curated Indian gaming dataset
+    └── games_dataset.csv   # Dataset (20,000+ records)
 ```
 
 ---
@@ -93,24 +92,37 @@ Save as `requirements.txt` in the project folder.
 
 ## 🔍 Key Results
 
-| Metric | Result |
-|---|---|
-| Classification accuracy | **84%** (Random Forest, 5-fold CV) |
-| Similarity computations | **97,000+** (full 312×312 cosine matrix) |
-| Dataset size | **312** curated Indian gaming records |
-| Recommendation engine | Top-N similar games via Cosine Similarity |
-| Sentiment engine | VADER — Positive / Neutral / Negative |
-| Analytics layer | SQL queries on SQLite via Pandas |
+- **84% accuracy** on game category classification (Random Forest, 5-fold CV)
+- **20,000+ records** processed across the full ML pipeline
+- Cosine Similarity recommendation engine returns top-N similar games
+- VADER sentiment classifies reviews as Positive / Neutral / Negative
+- SQL analytics surface market trends by genre, platform, and region
 
 ---
 
-## 💡 Why 97,000+ Computations?
+## 📸 Screenshots
 
-The Cosine Similarity recommendation engine computes a **full 312 × 312 similarity matrix** — every game compared against every other game in both directions. That equals **97,344 individual similarity computations**, making the recommendation engine responsive across the entire dataset without pre-filtering.
+**Dashboard Overview**
+<img width="7684" height="4322" alt="dashboard" src="https://github.com/user-attachments/assets/0572a433-8bd5-4cf3-8740-3e24ffbf1545" />
+
+
+**Game Recommender**
+<img width="7684" height="4322" alt="recommendations" src="https://github.com/user-attachments/assets/bd9247dd-c253-4f81-8137-08c097419a79" />
+
+
+
+**Sentiment Analysis**
+<img width="7684" height="4322" alt="sentiment" src="https://github.com/user-attachments/assets/aff7da20-f4f7-48a7-883e-2e4b31937ee1" />
+
+
+
+**Trending Games**
+<img width="7684" height="4322" alt="analytics" src="https://github.com/user-attachments/assets/86d306af-d4a4-4cd2-adc0-467d2a2334ee" />
+
 
 ---
 
 ## 👤 Developer
 
-**Kartikeya Babaraoji Warhade**
+**Kartikeya Warhade**
 [LinkedIn](https://linkedin.com/in/kartikeya-warhade) · [GitHub](https://github.com/KartikeyaWarhade2002)
